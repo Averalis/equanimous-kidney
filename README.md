@@ -1,5 +1,4 @@
 # equanimous-kidney
-Capstone Project
 The website is written in C#.
 This was my capstone project that I created as a solution to a problem for the college I attended.
 The purpose of this project was to allow teachers to enter in information about students who were in some
